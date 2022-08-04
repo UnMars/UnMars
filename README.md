@@ -4,7 +4,6 @@
 
 ## 🌐 Socials:
 [![Discord Presence](https://lanyard.cnrad.dev/api/298085350595756033)](https://discord.com/users/298085350595756033) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/UnMars_) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
