@@ -3,7 +3,10 @@
 > The less you know, the better
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/298085350595756033)](https://discord.com/users/298085350595756033) 
+<p href="https://discord.com/users/298085350595756033" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/298085350595756033/>
+</p>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
