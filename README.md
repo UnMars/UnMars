@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <p href="https://discord.com/users/298085350595756033" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/298085350595756033/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/1043520144875454534/>
 </p>
 
 
