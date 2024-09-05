@@ -1,6 +1,6 @@
 # 👨‍💻 whoami
-🔭 UnMars, 20, 🇫🇷 <br>
-> The less you know, the better
+🔭 UnMars, 21, 🇫🇷 <br>
+> ENSIMAG Student
 
 ## 🌐 Socials:
 <p href="https://discord.com/users/298085350595756033" align="center">
