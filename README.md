@@ -1,6 +1,6 @@
 # 👨‍💻 whoami
 🔭 UnMars, 22, 🇫🇷 <br>
-> ENSIMAG Student
+> SWE @ Datadog
 
 ## 🌐 Socials:
 <p href="https://discord.com/users/298085350595756033" align="center">
